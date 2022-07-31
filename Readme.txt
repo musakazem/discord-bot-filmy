@@ -12,7 +12,7 @@ A simple discord bot that uses TMDB api to query through a movie database and re
 
 How to use:
 
-The bot has to simple commands:
+For now this bot has two commands:
 
 !search - Enter a keyword after this command and the bot will query through the database and return a list of movies
 		e.g ( !search The Batman )
